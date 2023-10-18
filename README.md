@@ -1,2 +1,2 @@
 # project
-earth quake
+product demand prediction with mechanism learning 
